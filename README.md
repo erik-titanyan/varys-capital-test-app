@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+### `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Install all necessary dependencies.
+
+## Enviroment variables
+
+Due to security Api key of coinmarketcap saved in .env file, in repo there is example of .env file, if you do not have Api key of coinmarketcap you can use mine ad3c90ad-ff85-4010-8f02-3ac94aee2f04
 
 ## Available Scripts
 
